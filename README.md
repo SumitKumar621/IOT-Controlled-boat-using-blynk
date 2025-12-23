@@ -14,7 +14,7 @@ This project focuses on designing and developing a boat that can be **remotely c
 
 ### 🔹 Hardware
 - ESP32 Microcontroller  
-- L298N Motor Driver  
+- Motor Driver  
 - DC Motors with Propellers  
 - Power Supply / Battery  
 - Connecting Wires  
@@ -41,7 +41,7 @@ This project focuses on designing and developing a boat that can be **remotely c
 ## ⚙️ System Components
 
 - **ESP32:** Acts as the brain of the system and connects to Wi-Fi  
-- **L298N Motor Driver:** Controls speed and direction of DC motors  
+- **Motor Driver:** Controls speed and direction of DC motors  
 - **DC Motors:** Provide propulsion and steering  
 - **Blynk App:** User interface for sending control commands  
 
